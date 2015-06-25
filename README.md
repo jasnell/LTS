@@ -19,4 +19,5 @@ Define and execute a long-term support (LTS) plan for the io.js process.
 * Thorsten Lorenz [GitHub/@thlorenz](https://github.com/thlorenz) / [Twitter/@thlorenz](https://twitter.com/thlorenz)
 * Fedor Indutny [GitHub/@indutny](https://github.com/indutny) / [Twitter/@indutny](https://twitter.com/indutny)
 * Wyatt Preul [GitHub/@geek](https://github.com/geek) / [Twitter/@wpreul](https://twitter.com/wpreul)
+* James Snell [GitHub/@jasnell](https://github.com/jasnell) / [Twitter/@jasnell](https://twitter.com/jasnell)
 
